@@ -16,7 +16,7 @@ print(f"Luas persegi panjang adalah: {luas}")
 print('-'*20)
 x = 10
 y = 3.14
-nama = "Sandy"
+nama = "huhu"
 is_student = True
 
 print(type(x))
