@@ -25,4 +25,5 @@ while command != "exit":
         result = a / b
     
     print(f"hasil :{result}")
+    print("="*20)
     
